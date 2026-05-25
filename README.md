@@ -1,4 +1,4 @@
-# Sistema de Plenacion Academica NovaUniversitas
+# Sistema de Planeación Académica NovaUniversitas
 
 Sistema web para la gestión de planeaciones académicas y avances programáticos en instituciones universitarias. La plataforma permite administrar el flujo de creación, revisión y validación de documentos académicos entre profesores, jefaturas de carrera y vicerrectoría académica.
 
@@ -95,35 +95,7 @@ Dashboard (según rol)
 
 ---
 
-## Capturas del sistema
 
-> Agrega aquí screenshots del sistema para mostrar la interfaz y funcionalidades principales.
-
-### Login
-
-```md
-![Login](docs/screenshots/login.png)
-```
-
-### Dashboard
-
-```md
-![Dashboard](docs/screenshots/dashboard.png)
-```
-
-### Planeaciones académicas
-
-```md
-![Planeaciones](docs/screenshots/planeaciones.png)
-```
-
-### Avances programáticos
-
-```md
-![Avances](docs/screenshots/avances.png)
-```
-
----
 
 ## Instalación y ejecución
 
@@ -148,12 +120,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-El backend quedará disponible en:
-
-```text
-http://localhost:8000
-```
-
+El backend quedará disponible en `http://localhost:8000`.
 ---
 
 ## Frontend
